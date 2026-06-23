@@ -16,4 +16,4 @@ This project analyzes coffee sales data using Microsoft Excel.
 
 ## Dashboard Preview
 
-![Coffee Sales Dashboard](images/Coffee-Sales-Dashboard.png)
+![Coffee Sales Dashboard]([images/Coffee-Sales-Dashboard.png](https://github.com/Mykerhash/Coffee-sales-dashboard/blob/main/Screenshot%202026-02-09%20143837.png?raw=true))
