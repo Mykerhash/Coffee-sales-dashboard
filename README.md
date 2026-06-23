@@ -16,4 +16,4 @@ This project analyzes coffee sales data using Microsoft Excel.
 
 ## Dashboard Preview
 
-![Coffee Sales Dashboard](images/dashboard-screenshot.png)
+![Coffee Sales Dashboard](images/Coffee-Sales-Dashboard.png)
